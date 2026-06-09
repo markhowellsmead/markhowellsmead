@@ -7,5 +7,3 @@
 - You might know me from [WordPress Switzerland](https://www.wpswitzerland.ch/), cubetech, !frappant or Burson-Marsteller. If you're a thousand years old, like me, you might even remember me from Gossweiler Media AG, Jungfrau Zeitung, Artsoft Ltd. in Surrey, Cable & Wireless in Bracknell, or Solomons in Camberley and Lightwater.
 - I update my personal blog occasionally at [permanenttourist.ch](https://permanenttourist.ch)
 - You can reach me on Bluesky [@permanenttourist.ch](https://bsky.app/profile/permanenttourist.ch)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=markhowellsmead&show_icons=true&theme=graywhite)
